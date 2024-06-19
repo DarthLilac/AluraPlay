@@ -2,6 +2,16 @@
 
 Projeto da trilha de Front End do Programa ONE (Oracle Next Education)
 
-<br>![Layout Desktop](./Pagina1.jpg)
-<br>![Layout Tablet](./Pagina2.jpg)
-<br>![Layout Mobile](./Pagina2.jpg)
+## Layouts
+
+<b>Layout Desktop:</b>
+<br>
+<br>![Layout Desktop](./img/Layout/Desktop.png)
+<br>
+<b>Layout Tablet:</b>
+<br>
+<br>![Layout Tablet](./img/Layout/Tablet.png)
+<br>
+<b>Layout Mobile:</b>
+<br>
+<br>![Layout Mobile](./img/Layout/Mobile.png)
